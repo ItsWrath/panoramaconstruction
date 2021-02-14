@@ -13,5 +13,5 @@ This Adds A Construction Site In **Sandy Shores** Across From **Yellowjack**
 - Add ``ensure panormaconstruction`` To Your `server.cfg`
 
 ## Videos
-[Day](https://streamable.com/pza708) and
-[Night](https://streamable.com/004lmt)
+- [Day](https://streamable.com/pza708)
+- [Night](https://streamable.com/004lmt)
